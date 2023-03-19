@@ -46,10 +46,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="52" height="40" alt="Gitlab"  />
   </a>
 </div>
-
-###
-<div align="left">
-  <a href="https://saweria.co/knugraha" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="100" height="40" alt="Saweria" />
-  </a>
-</div>
