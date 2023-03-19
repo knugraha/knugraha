@@ -36,12 +36,11 @@
   <a href="https://www.linkedin.com/in/kristian-nugraha-b037621a6/" target="_blank">
     <img src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="mailto:knugraha1337@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://www.gstatic.com/images/branding/product/2x/hh_gmail_64dp.png" width="52" height="40" alt="Google Mail"  />
   </a>
   <a href="https://stackoverflow.com/users/7400592/kristian-nugraha" target="_blank">
-    <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png" width="52" height="40" alt="stackoverflow"  />
+    <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png" width="52" height="40" alt="Stackoverflow"  />
   </a>
     <a href="https://gitlab.com/knugraha" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="52" height="40" alt="Gitlab"  />
