@@ -42,7 +42,4 @@
   <a href="https://stackoverflow.com/users/7400592/kristian-nugraha" target="_blank">
     <img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png" width="52" height="40" alt="Stackoverflow"  />
   </a>
-    <a href="https://gitlab.com/knugraha" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="52" height="40" alt="Gitlab"  />
-  </a>
 </div>
